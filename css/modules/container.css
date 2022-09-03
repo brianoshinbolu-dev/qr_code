@@ -1,0 +1,27 @@
+
+.container {
+	width: 25rem;
+	background-color: hsl(0, 0%, 100%);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	border-radius: 1rem;
+}
+
+img {
+	width: 90%;
+	margin: 1rem;
+	border-radius: 10px;
+}
+
+
+.info {
+	width: 90%;
+	text-align: center;
+	padding: 0 0.8rem;
+}
+
+p{
+	font-size: 1rem;
+	padding: 1.5rem;
+}

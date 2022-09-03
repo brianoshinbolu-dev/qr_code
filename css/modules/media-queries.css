@@ -1,0 +1,13 @@
+@media screen and (max-width: 26rem) {
+
+	html {
+		font-size: 12px;
+	}
+
+	body {
+	}
+
+	.container {
+		width: 95wh;
+	}
+}
